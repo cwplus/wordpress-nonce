@@ -6,6 +6,15 @@
  * Time: 03:14
  */
 
+/*
+Plugin Name: Wordpress Nonce Object
+Plugin URI: 
+Description: This plugin serve to use nonce functions as object
+Author: Khalid EL HAKYM
+Version: 0.1
+Author URI: http://www.creationwebplus.be/
+*/
+
 
 /**
  * Class WordpressNonce:  for managing Wordpress Nonce functions
