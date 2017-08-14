@@ -1,5 +1,5 @@
 # wordpress-nonce
-This class is created to managing wordpress nonce functions as an object
+This class is created to using wordpress nonce functions as an object
 
 Installation
 ------------
@@ -8,9 +8,6 @@ Installation
 1. Add to your `composer.json`:
 
     ```json
-     "config": {
-        "vendor-dir": "wp-content/plugins/wordpress-nonce"
-    },
     "require": {
         "cwplus/wordpress-nonce": "dev-master"
     }
